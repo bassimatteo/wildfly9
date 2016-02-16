@@ -1,0 +1,1 @@
+standalone-full-ha
